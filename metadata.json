@@ -1,0 +1,5 @@
+{
+  "name": "CyberSim: Visual Threat Learning",
+  "description": "An interactive, animated simulation platform that visualizes common cyber attacks to help users understand security vulnerabilities and defense mechanisms.",
+  "requestFramePermissions": []
+}
