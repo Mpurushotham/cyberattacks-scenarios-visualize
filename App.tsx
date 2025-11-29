@@ -216,7 +216,7 @@ const App: React.FC = () => {
                <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
                System Operational
             </p>
-            <p>Powered by Gemini 2.5 Flash</p>
+            <p>Powered by Gemini </p>
           </div>
         </div>
       </aside>
